@@ -9,8 +9,7 @@ redirect_from:
 
 ## Short Bio
 
-Hi! I’m Goodsol Lee, a Ph.D. candidate at Seoul National University and currently at University of Colorado Boulder as a visiting scholar.
-My research focuses on enabling seamless real-time communication for people everywhere, regardless of physical distance or environmental constraints.
+Goodsol Lee is a Ph.D. candidate in Electrical and Computer Engineering at Seoul National University and a visiting scholar at the University of Colorado Boulder. His research centers on enabling seamless real-time communication regardless of physical distance or environmental constraints.
 
 Current interests include:
 - High-Quaity Real-Time Communications (e.g., cloud gaming, VR, AR)  
