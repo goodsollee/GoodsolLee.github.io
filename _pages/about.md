@@ -13,15 +13,15 @@ I’m Goodsol Lee, a Ph.D. candidate at Seoul National University and currently 
 My researches focus on enabling seamless real-time communication for people everywhere, regardless of physical distance or environmental constraints.
 
 Current interests include:
-- **High-Quaity Real-Time Communications (e.g., Cloud gaming, VR, AR)**  
-- **5G/6G Mobile Networks**   
-- **Cross-Layer Protocol Design**
+- High-Quaity Real-Time Communications (e.g., cloud gaming, VR, AR)  
+- 5G/6G Mobile Networks   
+- Cross-Layer Protocol Design
 
 ## News
 
 | Date | Event |
 |------|-------|
-| **2025-07** | 📄 Paper accepted to **USENIX NSDI ’26**  <span class="label label--success">NEW</span> |
+| **2025-07** | 📄 Paper accepted to **USENIX NSDI ’26** <span class="label label--success">NEW</span> |
 | **2025-03** | 📄 Paper accepted to **ACM MobiSys ’25** |
 | **2024-12** | 📄 Paper accepted to **IEEE INFOCOM ’25** |
 
