@@ -30,14 +30,10 @@ author:
   employer  : "University of Colorado Boulder"
   email     : "goodsolusa@gmail.com"
   phone     : "765-543-7699"
+  resume    : "files/CV.pdf"
   googlescholar: "https://scholar.google.co.kr/citations?user=rharPrgAAAAJ&hl=en"
   github    : "goodsollee"
   linkedin  : "goodsol-lee-25a75b31a/"
-
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"   # Font Awesome 아이콘
-      url:   "/files/CV.pdf"
 
 
 
