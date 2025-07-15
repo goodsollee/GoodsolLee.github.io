@@ -6,24 +6,24 @@ author_profile: true
 ---
 
 ### Visiting Scholar, Host: Prof. Sangtae Ha  
-*University of Colorado Boulder — Boulder, CO, USA* Jun 2024 – Present
+*University of Colorado Boulder — Boulder, CO, USA*, Jun 2024 – Present
 
 ---
 
 ### Visiting Scholar, Host. Prof. Kwang-Taik Kim and Prof. Mung Chiang  
-*Purdue University — West Lafayette, IN, USA*  Dec 2023 – May 2024
+*Purdue University — West Lafayette, IN, USA*,  Dec 2023 – May 2024
 
 ---
 
 ### Software Engineering Intern  
-*Samsung System LSI — Hwaseong, South Korea* Summer 2023
+*Samsung System LSI — Hwaseong, South Korea*, Summer 2023
 
 ---
 
 ### Research Assistant, Advisor: Prof. Kyunghan Lee and Prof. Saewoong Bahk  
-*Seoul National University — Seoul, South Korea*  Sep 2018 – Present
+*Seoul National University — Seoul, South Korea*,  Sep 2018 – Present
 
 ---
 
 ### Undergraduate Intern  
-*SK Hynix — Seongnam, South Korea* Summer 2017
+*SK Hynix — Seongnam, South Korea*, Summer 2017
