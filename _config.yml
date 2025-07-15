@@ -23,9 +23,11 @@ repository               : "goodsollee/GoodsolLee.github.io"
 
 
 author:
-  avatar    : "profile.png"
-  name      : "Goodsol Lee"
-  bio       : "Ph.D. candidate (SNU) \n Visiting Scholar (CU Boulder)"
+  avatar : "profile.png"
+  name   : "Goodsol Lee"
+  bio    : |
+    Ph.D. candidate, Seoul National University  
+    Visiting Scholar, University of Colorado Boulder
   location  : "Boulder, CO, USA"
   employer  : "University of Colorado Boulder"
   email     : "goodsolusa@gmail.com"
@@ -33,6 +35,7 @@ author:
   googlescholar: "https://scholar.google.co.kr/citations?user=rharPrgAAAAJ&hl=en"
   github    : "goodsollee"
   linkedin  : "goodsol-lee-25a75b31a/"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
