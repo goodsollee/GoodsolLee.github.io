@@ -12,5 +12,5 @@ author_profile: true
 
 ## External Review
 
-- **Conferences:** IEEE INFOCOM 2025/2024, ACM MobiCom 2025, ACM MobiHoc 2024/2021, WiOpt 2022  
+- **Conferences:** IEEE INFOCOM (2025/2024), ACM MobiCom (2025), ACM MobiHoc (2024/2021), WiOpt (2022)  
 - **Journals:**  IEEE/ACM Transactions on Networking (2021), Journal of Communications and Networks (2020)
