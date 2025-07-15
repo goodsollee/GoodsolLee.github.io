@@ -154,6 +154,16 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+# anywhere near the end
+assets:
+  sources:
+    - _sass
+    - assets/css
+
+# Minimal Mistakes가 읽게 해 주는 옵션
+custom_css:
+  - "/assets/css/custom.css"
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
