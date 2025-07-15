@@ -12,33 +12,27 @@ site_theme               : "default"
 title                    : "Goodsol Lee"
 title_separator          : "-"
 name                     : &name "Goodsol Lee"
-description              : &description "Ph.D candiate in Seoul National University/Visiting Scholar at University Colorado Boulder"
+description              : &description "Ph.D. candidate, Seoul National University & Visiting Scholar, University of Colorado Boulder"
 url                      : https://goodsollee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goodsollee/GoodsolLee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+#               Additional customization can be done by editing /_includes/author-profile.htmlonal University & Visiting Scholar, University of Colorado Boulder —
+  High-Quality Real-Time Communications over Wireless Networks
+
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.co.kr/citations?user=rharPrgAAAAJ&hl=en"
-
-  # Repositories and software development
-  github           : "https://github.com/goodsollee"
-
-  # Social media
-  linkedin         : "https://www.linkedin.com/in/goodsol-lee-25a75b31a/"
+  avatar    : "profile.png"
+  name      : "Goodsol Lee"
+  bio       : "Researching high-quality real-time communications (e.g., cloud gaming, AR, VR) over 5G/6G mobile networks."
+  location  : "Boulder, CO, USA"
+  employer  : "University of Colorado Boulder"
+  email     : "goodsolusa@gmail.com"
+  phone     : "765-543-7699"
+  googlescholar: "https://scholar.google.co.kr/citations?user=rharPrgAAAAJ&hl=en"
+  github    : "https://github.com/goodsollee"
+  linkedin  : "https://www.linkedin.com/in/goodsol-lee-25a75b31a/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -260,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
