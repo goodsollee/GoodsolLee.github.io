@@ -2,7 +2,7 @@
 layout: single
 title: "Services"
 permalink: /service/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
