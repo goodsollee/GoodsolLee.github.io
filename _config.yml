@@ -162,7 +162,7 @@ assets:
 
 # Minimal Mistakes가 읽게 해 주는 옵션
 custom_css:
-  - "/assets/css/custom.css"
+  - "custom.css"
 
 # Conversion
 markdown: kramdown
