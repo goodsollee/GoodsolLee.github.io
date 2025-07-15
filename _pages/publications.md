@@ -9,7 +9,7 @@ author_profile: true
 ## Selected Publications
 
 ### Conferences 
-- **[USENIX NSDI'26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity (Accepted) 
+- **[USENIX NSDI'26] (Accepted)** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity 
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[ACM MobiSys'25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness  
@@ -19,8 +19,12 @@ author_profile: true
   Juhun Shin, **Goodsol Lee**, Jeongyeop Paek, Saewoong Bahk  
 
 - **[IEEE WCNC'20]** ProSCH: Proxy Aided Secondary Cell Handover in Ultra-Dense Mmwave Network  
-  **Goodsol Lee**, Siyoung Choi, Junseok Kim, Youngseok Kim, and Saewoong Bah 
+  **Goodsol Lee**, Siyoung Choi, Junseok Kim, Youngseok Kim, and Saewoong Bahk 
 
 ### Journals
 - **[IEEE Network'20]** Two-step random access for 5G system: Latest trends and challenges
   Junseok Kim, **Goodsol Lee**, Seongwon Kim, Tarik Taleb, Sunghyun Choi, and Saewoong Bahk
+
+### Full list  
+All papers are available on  
+[<u>Google Scholar</u>](https://scholar.google.co.kr/citations?user=rharPrgAAAAJ&hl=en){:target="_blank" rel="noopener"}
