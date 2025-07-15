@@ -5,41 +5,24 @@ permalink: /experiences/
 author_profile: true
 ---
 
-### Visiting Scholar  
-**University of Colorado Boulder — Boulder, CO, USA**  
-*Jun 2024 – Present*
-
-- **QCON** – Multi-connectivity scheduler for 5G cloud gaming → 2.1 × video PSNR, 5 × P01 FPS • *USENIX NSDI ’26* (accepted)  
-- **RTC-aware RAN** – Mitigates non-congestive RAN delay for WebRTC video calls • *IEEE INFOCOM ’26* (under submission)  
-- **ARMA** – App-RAN mutual-awareness for MEC analytics • *ACM MobiSys ’25*
+### Visiting Scholar, Host: Prof. Sangtae Ha  
+**University of Colorado Boulder — Boulder, CO, USA** *Jun 2024 – Present*
 
 ---
 
-### Visiting Scholar  
-**Purdue University — West Lafayette, IN, USA**  
-*Dec 2023 – May 2024*
-
-- Collaborated on wireless QoE optimisation with Profs. Kwang Taik Kim & Mung Chiang
+### Visiting Scholar, Host. Prof. Kwang-Taik Kim and Prof. Mung Chiang  
+**Purdue University — West Lafayette, IN, USA**  *Dec 2023 – May 2024*
 
 ---
 
 ### Software Engineering Intern  
-**Samsung System LSI — Hwaseong, South Korea**  
-*Summer 2023*
-
-- Diagnosed low TCP CUBIC throughput over 5G uplink; traced root cause to sub-optimal HyStart parameters
+**Samsung System LSI — Hwaseong, South Korea** *Summer 2023*
 
 ---
 
-### Research Assistant  
-**Seoul National University — Seoul, South Korea**  
-*Sep 2018 – Dec 2023*
-
-- **César** – Cellular scheduling-aware congestion control → 1.2 × throughput with 82 % P95 latency of BBR • *IEEE INFOCOM ’25*  
-- **Prosch** – Proxy-aided secondary-cell handover for dual-connectivity mmWave 5G • *IEEE WCNC ’20*
-
+### Research Assistant, Advisor: Prof. Kyunghan Lee and Prof. Saewoong Bahk  
+**Seoul National University — Seoul, South Korea**  *Sep 2018 – Present*
 ---
 
 ### Undergraduate Intern  
-**SK Hynix — Seongnam, South Korea**  
-*Summer 2017*
+**SK Hynix — Seongnam, South Korea** *Summer 2017*
