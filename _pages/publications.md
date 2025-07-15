@@ -3,7 +3,7 @@ layout: single
 title:  "Publications"
 meta_title: "Goodsol Lee | Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
