@@ -3,6 +3,7 @@ layout: single
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
+classes: wide
 ---
 
 ### Visiting Scholar, Host: Prof. Sangtae Ha  

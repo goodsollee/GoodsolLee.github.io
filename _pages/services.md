@@ -3,6 +3,7 @@ layout: single
 title: "Services"
 permalink: /service/
 author_profile: true
+classes: wide
 ---
 
 ## Review

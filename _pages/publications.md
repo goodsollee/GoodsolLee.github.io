@@ -4,6 +4,7 @@ title:  "Publications"
 meta_title: "Goodsol Lee | Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 ## Selected Publications
