@@ -37,7 +37,8 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"   # Font Awesome 아이콘
-      url: "/files/CV.pdf" # ‼️ 실제 PDF 경로
+      url:   "/files/CV.pdf"
+
 
 
 # Publication Category - The following the list of publication categories and their headings

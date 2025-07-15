@@ -17,7 +17,3 @@ color: #fff;
 background: #2ecc71;
 }
 
-@media (min-width: 64em) {          /* sidebar 가 고정되는 구간 */
-.sidebar { width: 260px; }        /* <─ 기존 220px 정도 → 260px */
-body    { margin-left: 260px; }   /* 메인 영역도 같이 이동 */
-}
