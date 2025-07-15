@@ -9,7 +9,7 @@ author_profile: true
 ## Selected Publications
 
 ### Conferences 
-- **[USENIX NSDI'26] (Accepted)** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity  
+- **[USENIX NSDI'26 - Accepted]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity  
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[ACM MobiSys'25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness  
