@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ### Visiting Scholar, Host: Prof. Sangtae Ha  
-*University of Colorado Boulder — Boulder, CO, USA*, Jun 2024 – Present
+*University of Colorado Boulder — Boulder, CO, USA*, Jun 2024 – Sep 2025
 
 ---
 
