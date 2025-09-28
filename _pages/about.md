@@ -14,7 +14,7 @@ Goodsol Lee is a final-year Ph.D. candidate in Electrical and Computer Engineeri
 Current interests include:
 - High-Quaity Real-Time Communications (e.g., cloud gaming, VR, AR)  
 - 5G/6G Mobile Networks   
-- Cross-Layer Protocol Design
+- Networking for Agent AI
 
 ## News
 
