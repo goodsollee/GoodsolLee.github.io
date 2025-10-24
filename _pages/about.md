@@ -20,7 +20,7 @@ Current interests include:
 
 | Date | Event |
 |------|-------|
-| **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern [NEW](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) |
+| **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern|
 | **2025-07** | 📄 Paper accepted to **USENIX NSDI ’26** |
 | **2025-03** | 📄 Paper accepted to **ACM MobiSys ’25** |
 | **2024-12** | 📄 Paper accepted to **IEEE INFOCOM ’25** |
