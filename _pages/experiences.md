@@ -6,6 +6,11 @@ author_profile: true
 classes: wide
 ---
 
+### Research Intern, Host: Dr. Juheon Yi  
+*Microsoft Research Asia — Beijing, China*, Nov 2025 – Present
+
+---
+
 ### Visiting Scholar, Host: Prof. Sangtae Ha  
 *University of Colorado Boulder — Boulder, CO, USA*, Jun 2024 – Sep 2025
 
