@@ -20,8 +20,8 @@ Current interests include:
 
 | Date | Event |
 |------|-------|
-| **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern|
-| **2025-07** | 📄 Paper accepted to **USENIX NSDI ’26** |
-| **2025-03** | 📄 Paper accepted to **ACM MobiSys ’25** |
-| **2024-12** | 📄 Paper accepted to **IEEE INFOCOM ’25** |
-
+| **2025-11** | 📄 Two papers have been accepted to **IEEE INFOCOM'26** |
+| **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern |
+| **2025-07** | 📄 Paper has been accepted to **USENIX NSDI'26** |
+| **2025-03** | 📄 Paper has been accepted to **ACM MobiSys'25** |
+| **2024-12** | 📄 Paper has been accepted to **IEEE INFOCOM'25** |
