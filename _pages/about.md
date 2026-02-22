@@ -20,7 +20,8 @@ Current interests include:
 
 | Date | Event |
 |------|-------|
-| **2026-02** | 🎓 **Received the Ph.D. degree** from Seoul National University with honors (Distinguished Ph.D. Dissertation Award) |
+| **2026-02** | 🎓 Received the **Ph.D. degree from Seoul National University** with honors (Distinguished Ph.D. Dissertation Award) |
+| **2026-02** | 🏆 Received the **Gold Prize (1st place in Communications & Networks Division)** at the Samsung HumanTech Paper Awards |
 | **2026-02** | 💼 Completed research internship at **Microsoft Research Asia (Beijing)** |
 | **2025-11** | 📄 Two papers have been accepted to **IEEE INFOCOM'26** |
 | **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern |
