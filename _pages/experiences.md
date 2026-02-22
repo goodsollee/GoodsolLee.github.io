@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ### Research Intern, Host: Dr. Juheon Yi  
-*Microsoft Research Asia — Beijing, China*, Nov 2025 – Present
+*Microsoft Research Asia — Beijing, China*, Nov 2025 – Feb 2026
 
 ---
 
@@ -27,7 +27,7 @@ classes: wide
 ---
 
 ### Research Assistant, Advisor: Prof. Kyunghan Lee and Prof. Saewoong Bahk  
-*Seoul National University — Seoul, South Korea*,  Sep 2018 – Present
+*Seoul National University — Seoul, South Korea*,  Sep 2018 – Feb 2026
 
 ---
 
