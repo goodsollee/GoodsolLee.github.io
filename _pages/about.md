@@ -9,7 +9,7 @@ redirect_from:
 
 ## Short Bio
 
-Goodsol Lee received his Ph.D. in Electrical and Computer Engineering from Seoul National University. His vision is to make distributed intelligence—whether human or artificial—function as if unconstrained by networks, fundamentally advancing how society collaborates, learns, and innovates across physical boundaries.
+Goodsol Lee received his Ph.D. in Electrical and Computer Engineering from Seoul National University. His vision is to make distributed intelligence (human or artificial) function as if unconstrained by networks, fundamentally advancing how society collaborates, learns, and innovates across physical boundaries.
 
 Current interests include:
 - High-Quaity Real-Time Communications (e.g., cloud gaming, VR, AR)  
