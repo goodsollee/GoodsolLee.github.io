@@ -9,17 +9,19 @@ redirect_from:
 
 ## Short Bio
 
-Goodsol Lee is a final-year Ph.D. candidate in Electrical and Computer Engineering at Seoul National University. He is currently a research intern at the Media Computing Group, Microsoft Research Asia (Beijing). His research centers on enabling seamless real-time communications regardless of physical distance or environmental constraints.
+Goodsol Lee received his Ph.D. in Electrical and Computer Engineering from Seoul National University. His vision is to make distributed intelligence—whether human or artificial—function as if unconstrained by networks, fundamentally advancing how society collaborates, learns, and innovates across physical boundaries.
 
 Current interests include:
 - High-Quaity Real-Time Communications (e.g., cloud gaming, VR, AR)  
-- 5G/6G Mobile Networks   
 - Networking for Agent AI
+- 5G/6G Mobile Networks   
 
 ## News
 
 | Date | Event |
 |------|-------|
+| **2026-02** | 🎓 Received the Ph.D. degree from Seoul National University (Distinguished Ph.D. Dissertation Award) |
+| **2026-02** | 💼 Completed research internship at **Microsoft Research Asia** |
 | **2025-11** | 📄 Two papers have been accepted to **IEEE INFOCOM'26** |
 | **2025-11** | 💼 Joined **Microsoft Research Asia (Beijing)** as a research intern |
 | **2025-07** | 📄 Paper has been accepted to **USENIX NSDI'26** |
