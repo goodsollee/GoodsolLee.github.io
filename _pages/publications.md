@@ -12,7 +12,7 @@ classes: wide
 - **[USENIX NSDI'26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity  
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
-- **[IEEE INFOCOM'26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks 
+- **[IEEE INFOCOM'26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks  
   **Goodsol Lee**, Seyeon Kim, Juheon Yi, Junhong Min, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[IEEE INFOCOM'26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics  
