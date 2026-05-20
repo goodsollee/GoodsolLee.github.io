@@ -9,13 +9,13 @@ classes: wide
 
 ## Selected Publications
 
-- **[USENIX NSDI'26 - Accepted]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity  
+- **[USENIX NSDI'26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity  
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
-- **[IEEE INFOCOM'26 - Accepted]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks 
+- **[IEEE INFOCOM'26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks 
   **Goodsol Lee**, Seyeon Kim, Juheon Yi, Junhong Min, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
-- **[IEEE INFOCOM'26 - Accepted]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics  
+- **[IEEE INFOCOM'26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics  
   Juheon Yi, Minkyung Jeong, Seokgyeong Shin, **Goodsol Lee**, Daehyeok Kim, Youngki Lee  
 
 - **[ACM MobiSys'25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness  
