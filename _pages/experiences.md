@@ -6,6 +6,11 @@ author_profile: true
 classes: wide
 ---
 
+### Network System Researcher  
+*Nokia Bell Labs — New Providence, NJ, USA*, May 2026 – Present
+
+---
+
 ### Research Intern, Host: Dr. Juheon Yi  
 *Microsoft Research Asia — Beijing, China*, Nov 2025 – Feb 2026
 

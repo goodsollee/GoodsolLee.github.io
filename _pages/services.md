@@ -6,6 +6,10 @@ author_profile: true
 classes: wide
 ---
 
+## TPC Member
+
+- **Conferences:** IEEE INFOCOM'27, MobiSys'26 Workshop on NetAISys
+
 ## Review
 
 - **Conferences:** WNS3 2021, IEEE Globecom 2020  
