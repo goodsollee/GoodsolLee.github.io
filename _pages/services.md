@@ -8,7 +8,8 @@ classes: wide
 
 ## TPC Member
 
-- **Conferences:** IEEE INFOCOM'27, MobiSys'26 Workshop on NetAISys
+- IEEE INFOCOM'27
+- ACM MobiSys'26 Workshop on NetAISys
 
 ## Review
 

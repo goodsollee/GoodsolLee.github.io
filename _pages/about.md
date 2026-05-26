@@ -11,13 +11,18 @@ redirect_from:
 
 Goodsol Lee is a network systems researcher at Nokia Bell Labs. Before joining Bell Labs, he received his Ph.D. in Electrical and Computer Engineering from Seoul National University. His vision is to make distributed intelligence (human or artificial) function as if unconstrained by networks, fundamentally advancing how society collaborates, learns, and innovates across physical boundaries.
 
+Current interests include:
+- High-Quality Real-Time Communications (e.g., cloud gaming, VR, AR)
+- Networking for Agent AI
+- 5G/6G Mobile Networks
+
 ## News
 
 | Date | Event |
 |------|-------|
 | **2026-05** | 🏛️ Serving as **TPC Member** for **IEEE INFOCOM'27** |
 | **2026-05** | 💼 Joined **Nokia Bell Labs** as a Network System Researcher |
-| **2026-04** | 🏛️ Serving as **TPC Member** for **MobiSys'26 Workshop (NetAISys)** |
+| **2026-04** | 🏛️ Serving as **TPC Member** for **ACM MobiSys'26 Workshop (NetAISys)** |
 | **2026-02** | 🎓 Received the **Ph.D. degree from Seoul National University** |
 | **2026-02** | 🏆 Received the **Gold Prize (1st place in Communications & Networks Division)** at the Samsung HumanTech Paper Awards |
 | **2026-02** | 💼 Completed research internship at **Microsoft Research Asia (Beijing)** |
