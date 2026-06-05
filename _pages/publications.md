@@ -9,7 +9,7 @@ classes: wide
 
 ## Selected Publications
 
-- **[USENIX NSDI'26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity [[PDF](/files/NSDI26-QCON.pdf){:target="_blank" rel="noopener"}] [[Slides](/files/NSDI26-QCON-slides.pdf){:target="_blank" rel="noopener"}] [[Code](https://github.com/goodsollee/qcon-nsdi26){:target="_blank" rel="noopener"}]  
+- **[USENIX NSDI'26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity [[PDF](/files/NSDI26-QCON.pdf){:target="_blank" rel="noopener"}] [[Slides](/files/NSDI26-QCON-slides.pdf){:target="_blank" rel="noopener"}] [[Code](https://github.com/goodsollee/qcon-nsdi26){:target="_blank" rel="noopener"}] [[Video](https://www.youtube.com/watch?v=bzGXb57aiFA){:target="_blank" rel="noopener"}]  
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[IEEE INFOCOM'26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks [[PDF](/files/INFOCOM26-PAVE.pdf){:target="_blank" rel="noopener"}] [[Slides](/files/INFOCOM26-PAVE-slides.pdf){:target="_blank" rel="noopener"}]  
