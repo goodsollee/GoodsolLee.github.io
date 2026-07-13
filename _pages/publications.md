@@ -13,7 +13,7 @@ classes: wide
   **Goodsol Lee**, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[IEEE INFOCOM'26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks [[PDF](/files/INFOCOM26-PAVE.pdf){:target="_blank" rel="noopener"}] [[Slides](/files/INFOCOM26-PAVE-slides.pdf){:target="_blank" rel="noopener"}]  
-  **Goodsol Lee**, Seyeon Kim, Juheon Yi, Junhong Min, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
+  **Goodsol Lee**, Seyeon Kim, Juheon Yi, Junhong Min, Tuan Tran, Sangtae Ha, Kyunghan Lee, Saewoong Bahk  
 
 - **[IEEE INFOCOM'26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics  
   Juheon Yi, Minkyung Jeong, Seokgyeong Shin, **Goodsol Lee**, Daehyeok Kim, Youngki Lee  
