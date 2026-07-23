@@ -20,6 +20,7 @@ Current interests include:
 
 | Date | Event |
 |------|-------|
+| **2026-07** | 📄 Paper has been accepted to **USENIX NSDI'27** |
 | **2026-05** | 🏛️ Serving as **TPC Member** for **IEEE INFOCOM'27** |
 | **2026-05** | 💼 Joined **Nokia Bell Labs** as a Network System Researcher |
 | **2026-04** | 🏛️ Serving as **TPC Member** for **ACM MobiSys'26 Workshop (NetAISys)** |
